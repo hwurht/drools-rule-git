@@ -1,0 +1,8 @@
+{
+  "models" : [ {
+    "id" : "05102035-a832-4454-890c-bbcb6f3e08a3",
+    "groupId" : "com.redhat.brms",
+    "artifactId" : "drools-rule-xsd-model",
+    "version" : "0.0.1-SNAPSHOT"
+  } ]
+}
